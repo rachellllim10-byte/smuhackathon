@@ -1,1 +1,1 @@
-# smuhackathon
+# agnes ai x smu hackathon
